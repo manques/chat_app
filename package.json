@@ -1,0 +1,26 @@
+{
+  "name": "chat_app",
+  "version": "1.0.0",
+  "description": "1st chat server using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manques/chat_app.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manques/chat_app/issues"
+  },
+  "homepage": "https://github.com/manques/chat_app#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.1"
+  }
+}
